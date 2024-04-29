@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.kata.marsrover</groupId>
-    <artifactId>MarsRover</artifactId>
+    <artifactId>mars-rover</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <!-- Remove Platform Dependency -->
@@ -32,7 +32,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.kata.marsrover.MarsRover</mainClass>
+                            <mainClass>com.kata.marsrover.Rover</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

@@ -1,7 +1,3 @@
 *.idea
-*.settings
-*.classpath
-*.project
-*.eml
-*.iml
-*.userlibraries
+out/
+target/
